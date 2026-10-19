@@ -18,11 +18,6 @@
 ## 三、ComfyUI 工作流
 
 ![ComfyUI工作流](ebdd73d4-b40f-4758-8554-fc01bc2229db.jfif)
-## 四、完整工作流截圖（Workflow）
-
-以下是我使用 ComfyUI 進行影像生成時的節點與連接流程。
-
-![ComfyUI工作流](ebdd73d4-b40f-4758-8554-fc01bc2229db.jfif)
 
 ## 五、正向與負向提示詞（Prompts）
 
