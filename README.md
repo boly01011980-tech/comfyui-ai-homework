@@ -6,18 +6,18 @@
 
 本次作業使用自己的照片作為原始素材，透過 ComfyUI 將照片轉換成 AI 風格的圖片，並記錄完整的製作流程。
 
-## 二、原始照片（Original Image）
 
-這是我用來進行 AI 影像生成的原始照片。
+## 一、原始照片
 
 ![原始照片](1935d126-a522-4298-b27d-64705d29841f.jfif)
 
-## 三、AI 生成圖片（AI Generated Image）
-
-這是使用 ComfyUI 生成的圖片，可以觀察原始照片與 AI 生成結果之間的差異。
+## 二、AI 生成圖片
 
 ![AI生成圖片](8726a502-db83-41c8-98ad-69ebb1dddfd7.jfif)
 
+## 三、ComfyUI 工作流
+
+![ComfyUI工作流](ebdd73d4-b40f-4758-8554-fc01bc2229db.jfif)
 ## 四、完整工作流截圖（Workflow）
 
 以下是我使用 ComfyUI 進行影像生成時的節點與連接流程。
