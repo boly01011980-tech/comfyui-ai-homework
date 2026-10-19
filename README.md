@@ -43,6 +43,3 @@ low quality, blurry, bad anatomy, deformed face, distorted eyes, extra fingers, 
 
 這次經驗讓我更了解人工智慧在數位影像設計上的應用，也提升了我對 AI 創作的興趣。
 
-## 七、作品網站
-
-[點此查看 GitHub Pages 網頁](https://boly01011980-tech.github.io/comfyui-ai-homework/)
